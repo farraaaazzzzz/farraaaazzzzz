@@ -2,7 +2,7 @@
 - 👀 I’m interested in Designing
 - 🌱 I’m currently learning creating fintech applications for student use
 - 💞️ I’m looking to collaborate on products under the umbrella of fintech
-- 📫 reach me at my email farraaaazzzzz@gmail.com 
+- 📫 reach me at my email m.shaikh.23114@khi.iba.edu.pk
 - 😄 Pronouns: He/Him
 
 <!---
