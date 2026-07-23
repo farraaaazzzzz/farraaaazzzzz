@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @farraaaazzzzz
-- 👀 I’m interested in Designing
-- 🌱 I’m currently learning creating fintech applications for student use
-- 💞️ I’m looking to collaborate on products under the umbrella of fintech
-- 📫 reach me at my email m.shaikh.23114@khi.iba.edu.pk
-- 😄 Pronouns: He/Him
+### hey, I'm Faraz 👋
 
-<!---
-farraaaazzzzz/farraaaazzzzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+co-founder of **adroit** — a design studio crafting whatever our heart wishes to
+
+currently shipping **[KharchAI]** — a smart finance assistant built for Pakistani students. tracks expenses, splits bills, and understands Urdu. Your chotu accountant. If you're interested i'd love to give you a personal demo. you can reach out to me: 
+
+- 📬 farraaaazzzzz@gmail.com
+- 🎨 design-first, product-minded
+- 📍 Karachi, Pakistan
+
+Thankyouu! love you <3 
