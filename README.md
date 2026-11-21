@@ -1,6 +1,6 @@
 ### hey, I'm Faraz 👋
 
-co-founder of **adroit**
+Founder of **adroit**
 a design studio crafting whatever our heart wishes to
 
 currently shipping **KharchAI** — a smart finance assistant built for Pakistani students. tracks expenses, splits bills, and understands Urdu. Your chotu accountant. If you're interested i'd love to give you a personal demo. you can reach out to me: 
