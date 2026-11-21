@@ -7,5 +7,6 @@ currently shipping **KharchAI** — a smart finance assistant built for Pakistan
 - 📬 farraaaazzzzz@gmail.com
 - 🎨 design-first, product-minded
 - 📍 Karachi, Pakistan
+- 🌐 www.itsadroit.com
 
 Thankyouu! love you <3 
